@@ -1,0 +1,27 @@
+{
+  "exit_code": 0,
+  "completed": true,
+  "seconds": 4.004,
+  "rom_sha256": "bf9db9f19abca263c7d90076037e41c8e27625da34ea9eba101762f777758513",
+  "lua_sha256": "c65260503d099b56a1571834af5dabbcf9736fbe7285fe849a69c33bafa932c9",
+  "access_method": "SCRIPTED_NATURAL",
+  "parameters": {
+    "name": "synth_bonus_actors",
+    "rom": "/workspace/scratch/eeb33cfcd7d9/work/Densha_de_Go_2_EN_v0.4.17/roms/Densha_de_Go_2_EN_v0.4.17.ws",
+    "mode": "course",
+    "index": 3,
+    "frames": 3200,
+    "freeze": false,
+    "lua": "../densha_synthetic_v0417/tools/bonus_trigger.lua"
+  },
+  "command": [
+    "/workspace/scratch/eeb33cfcd7d9/work/Densha_de_Go_2_EN_v0.4.17/vendor/mesen_runtime/Mesen",
+    "--testRunner",
+    "--timeout=85",
+    "--enableStdout",
+    "--doNotSaveSettings",
+    "--debug.scriptWindow.allowIoOsAccess=true",
+    "/workspace/scratch/eeb33cfcd7d9/work/densha_synthetic_v0417/tools/bonus_trigger.lua",
+    "/workspace/scratch/eeb33cfcd7d9/work/Densha_de_Go_2_EN_v0.4.17/roms/Densha_de_Go_2_EN_v0.4.17.ws"
+  ]
+}

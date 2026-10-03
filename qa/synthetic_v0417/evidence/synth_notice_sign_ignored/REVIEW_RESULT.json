@@ -1,0 +1,14 @@
+{
+  "result": "PASS_SYNTHETIC",
+  "scope": "consumer",
+  "statement": "SIGN IGNORED; real engine resource load observed after WRAM_POINTER_INJECTION. This approves consumer behavior only.",
+  "rom_sha256": "bf9db9f19abca263c7d90076037e41c8e27625da34ea9eba101762f777758513",
+  "evidence": {
+    "trace.tsv": "56bdf23b09cdaddc867ccc4b967dc0ed467c3e0b46a8c645ee2fd09bc5e2b019",
+    "notice_f06600.png": "e941e256acc04e200a7a8ef832265b9ab103d097e4fa44a0688ea8fc2a21ece0"
+  },
+  "natural_pass": false,
+  "global_approval": "NOT_VALIDATED",
+  "persistence": "NOT_VALIDATED",
+  "basis": "Revisión explícita del material identificado; el validador comprueba trazabilidad, no visión."
+}

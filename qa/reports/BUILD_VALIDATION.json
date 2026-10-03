@@ -1,0 +1,113 @@
+{
+  "version": "0.4.17",
+  "rom_sha256": "bf9db9f19abca263c7d90076037e41c8e27625da34ea9eba101762f777758513",
+  "original_sha256": "3ec68e02fa964383d6a0792aca7e53ab005e17a768a8546eb6dc5ed482db7c29",
+  "previous_sha256": "643363ab9f8d5c466a0e01ca14b22a4c8e65d76c7a5bb927139ec8e755a45f3b",
+  "rom_bytes": 4194304,
+  "checksum": "0x5c91",
+  "changed_bytes_from_v0416": 953,
+  "unexpected_offsets": [],
+  "changes": [
+    {
+      "source_jp": "運転終了",
+      "en": "RUN ENDED",
+      "stream": "0x3d61c0",
+      "original_capacity": 550,
+      "before_compressed": 503,
+      "after_compressed": 518,
+      "raw_bytes": 1152,
+      "heading_tiles": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "remaining_48_tiles_unchanged": true,
+      "reason": "Replace malformed inherited English heading with coherent 5x7 glyphs, using the actual consumer palette."
+    },
+    {
+      "source_jp": "運転中止",
+      "en": "RUN ABORTED",
+      "stream": "0x3d63e8",
+      "original_capacity": 543,
+      "before_compressed": 530,
+      "after_compressed": 533,
+      "raw_bytes": 1152,
+      "heading_tiles": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "remaining_48_tiles_unchanged": true,
+      "reason": "Replace malformed inherited English heading with coherent 5x7 glyphs, using the actual consumer palette."
+    }
+  ],
+  "patches": [
+    {
+      "name": "Densha_de_Go_2_EN_v0.4.17_CUMULATIVE.bps",
+      "bytes": 31859,
+      "sha256": "c74d4d4dd1f72a23a791c0320e456b3d3a8b2aa0ce5a95d01c6a0385c0229c21",
+      "roundtrip_exact": true
+    },
+    {
+      "name": "Densha_de_Go_2_EN_v0.4.17_CUMULATIVE.ips",
+      "bytes": 34756,
+      "sha256": "06c0aeca5870c48a06229187cbbcd7e6a91dff4d9b417a5f4353c228fb3f0b7d",
+      "roundtrip_exact": true
+    },
+    {
+      "name": "Densha_de_Go_2_EN_v0.4.17_from_v0.4.16_INCREMENTAL.bps",
+      "bytes": 1081,
+      "sha256": "615c627599ef70ea935359a22119fbc169c4036c9a0b52b6658fc4109ebdab20",
+      "roundtrip_exact": true
+    },
+    {
+      "name": "Densha_de_Go_2_EN_v0.4.17_from_v0.4.16_INCREMENTAL.ips",
+      "bytes": 1181,
+      "sha256": "635b55902eb629d8b98fa475b09c080712b3f9c1aa3dc1cd30d131e46ec0f15c",
+      "roundtrip_exact": true
+    }
+  ],
+  "gameplay_code_unchanged": true
+}

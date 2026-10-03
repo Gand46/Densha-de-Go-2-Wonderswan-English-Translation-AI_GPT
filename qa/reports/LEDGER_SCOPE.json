@@ -1,0 +1,10 @@
+{
+  "ledger_rows": 5,
+  "global_text_denominator_available": false,
+  "linguistic_field_names": [
+    "linguistic_approved",
+    "linguistic_reviewed"
+  ],
+  "global_language_pass_supported": false,
+  "reason": "The ledger covers five recent fixes, not the full historical translation; reviewed and approved field names are not uniform. Do not infer whole-ROM approval from this subset."
+}

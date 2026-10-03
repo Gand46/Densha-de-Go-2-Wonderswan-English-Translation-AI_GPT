@@ -1,0 +1,211 @@
+input_path,output_path,decision,class,reason
+.gitattributes,.gitattributes,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+.github/ISSUE_TEMPLATE/translation_or_bug.md,.github/ISSUE_TEMPLATE/translation_or_bug.md,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+.gitignore,.gitignore,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+APPLY_WINDOWS.bat,APPLY_WINDOWS.bat,retained,active source,Active paths unchanged; original evidence retained.
+BUILD_WINDOWS.bat,BUILD_WINDOWS.bat,retained,active source,Active paths unchanged; original evidence retained.
+CHANGELOG.md,CHANGELOG.md,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+CONTRIBUTING.md,CONTRIBUTING.md,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+NOTICE.md,NOTICE.md,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+README.md,README.md,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+SOURCE_SHA256SUMS.txt,SOURCE_SHA256SUMS.txt,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+VERIFY_WINDOWS.bat,VERIFY_WINDOWS.bat,retained,active source,Active paths unchanged; original evidence retained.
+archive/README.md,archive/README.md,retained,historical source,Active paths unchanged; original evidence retained.
+archive/builders/build_densha_v0410.py,archive/builders/build_densha_v0410.py,retained,historical source,Active paths unchanged; original evidence retained.
+archive/builders/build_densha_v0411.py,archive/builders/build_densha_v0411.py,retained,historical source,Active paths unchanged; original evidence retained.
+archive/builders/build_densha_v0412.py,archive/builders/build_densha_v0412.py,retained,historical source,Active paths unchanged; original evidence retained.
+archive/builders/build_densha_v0413.py,archive/builders/build_densha_v0413.py,retained,historical source,Active paths unchanged; original evidence retained.
+archive/builders/build_densha_v0414.py,archive/builders/build_densha_v0414.py,retained,historical source,Active paths unchanged; original evidence retained.
+archive/builders/build_densha_v0415.py,archive/builders/build_densha_v0415.py,retained,historical source,Active paths unchanged; original evidence retained.
+archive/builders/build_densha_v045.py,archive/builders/build_densha_v045.py,retained,historical source,Active paths unchanged; original evidence retained.
+archive/builders/build_v0416.py,archive/builders/build_v0416.py,retained,historical source,Active paths unchanged; original evidence retained.
+archive/builders/build_v0417_original.py,archive/builders/build_v0417_original.py,retained,historical source,Active paths unchanged; original evidence retained.
+assets/baseline_v0416_cumulative.ips,assets/baseline_v0416_cumulative.ips,retained,active source,Active paths unchanged; original evidence retained.
+assets/font5x7.json,assets/font5x7.json,retained,active source,Active paths unchanged; original evidence retained.
+docs/CONTINUING.md,docs/CONTINUING.md,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+docs/GITHUB_SETUP.md,docs/GITHUB_SETUP.md,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+docs/KNOWN_ISSUES.md,docs/KNOWN_ISSUES.md,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+docs/NEXT_STAGE.md,docs/NEXT_STAGE.md,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+docs/PRE_RC_AUDIT.md,docs/PRE_RC_AUDIT.md,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+docs/RELEASE_NOTES.md,docs/RELEASE_NOTES.md,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+docs/SYNTHETIC_QA_V0417.md,docs/SYNTHETIC_QA_V0417.md,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+docs/TRANSLATION_RULES.md,docs/TRANSLATION_RULES.md,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+docs/VALIDACION_V0417.md,docs/VALIDACION_V0417.md,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+patches/Densha_de_Go_2_EN_v0.4.17_CUMULATIVE.bps,patches/Densha_de_Go_2_EN_v0.4.17_CUMULATIVE.bps,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+patches/Densha_de_Go_2_EN_v0.4.17_CUMULATIVE.ips,patches/Densha_de_Go_2_EN_v0.4.17_CUMULATIVE.ips,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+patches/Densha_de_Go_2_EN_v0.4.17_from_v0.4.16_INCREMENTAL.bps,patches/Densha_de_Go_2_EN_v0.4.17_from_v0.4.16_INCREMENTAL.bps,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+patches/Densha_de_Go_2_EN_v0.4.17_from_v0.4.16_INCREMENTAL.ips,patches/Densha_de_Go_2_EN_v0.4.17_from_v0.4.16_INCREMENTAL.ips,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+project.json,project.json,retained,active source,Active paths unchanged; original evidence retained.
+qa/README.md,qa/README.md,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/evidence/HEADINGS_BEFORE_AFTER.png,qa/evidence/HEADINGS_BEFORE_AFTER.png,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/evidence/prerc_continue_contact.png,qa/evidence/prerc_continue_contact.png,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/evidence/prerc_options_contact.png,qa/evidence/prerc_options_contact.png,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/evidence/prerc_pause_resume_contact.png,qa/evidence/prerc_pause_resume_contact.png,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/reports/BUILD_VALIDATION.json,qa/reports/BUILD_VALIDATION.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/reports/CLEAN_REPRODUCTION.json,qa/reports/CLEAN_REPRODUCTION.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/reports/COURSE_ACCESS_AUDIT.json,qa/reports/COURSE_ACCESS_AUDIT.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/reports/ENVIRONMENT_RUNTIME_CORRESPONDENCE.json,qa/reports/ENVIRONMENT_RUNTIME_CORRESPONDENCE.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/reports/GITHUB_PACKAGING_VALIDATION.json,qa/reports/GITHUB_PACKAGING_VALIDATION.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/reports/LEDGER_SCOPE.json,qa/reports/LEDGER_SCOPE.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/reports/OPTIONS_COMPARE.json,qa/reports/OPTIONS_COMPARE.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/reports/QA_SUMMARY.json,qa/reports/QA_SUMMARY.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/reports/RC_GATE.json,qa/reports/RC_GATE.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/reports/SMOKE_RESULT.json,qa/reports/SMOKE_RESULT.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/reports/SOURCE_GUARDS.json,qa/reports/SOURCE_GUARDS.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/reports/STATIC_PRERC.json,qa/reports/STATIC_PRERC.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/reports/V0417_PIXEL_REGRESSION.json,qa/reports/V0417_PIXEL_REGRESSION.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/scripts/continue_game.lua,qa/scripts/continue_game.lua,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/scripts/ended_consumer_assisted.lua,qa/scripts/ended_consumer_assisted.lua,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/scripts/gameover_trace.lua,qa/scripts/gameover_trace.lua,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/scripts/natural_course.lua,qa/scripts/natural_course.lua,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/scripts/options_sweep.lua,qa/scripts/options_sweep.lua,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/scripts/pause_resume.lua,qa/scripts/pause_resume.lua,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/scripts/selector_natural.lua,qa/scripts/selector_natural.lua,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/scripts/synthetic_v0417/bonus_trigger.lua,qa/scripts/synthetic_v0417/bonus_trigger.lua,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/scripts/synthetic_v0417/end_branches.lua,qa/scripts/synthetic_v0417/end_branches.lua,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/scripts/synthetic_v0417/notice_substitute.lua,qa/scripts/synthetic_v0417/notice_substitute.lua,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/scripts/synthetic_v0417/penalty_object.lua,qa/scripts/synthetic_v0417/penalty_object.lua,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/scripts/synthetic_v0417/rare_trace.lua,qa/scripts/synthetic_v0417/rare_trace.lua,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/RESULTS.json,qa/synthetic_v0417/RESULTS.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_bonus_actors/REVIEW.json,qa/synthetic_v0417/evidence/synth_bonus_actors/REVIEW.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_bonus_actors/REVIEW_RESULT.json,qa/synthetic_v0417/evidence/synth_bonus_actors/REVIEW_RESULT.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_bonus_actors/RUN.json,qa/synthetic_v0417/evidence/synth_bonus_actors/RUN.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_bonus_actors/completed.json,qa/synthetic_v0417/evidence/synth_bonus_actors/completed.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_bonus_actors/execution.json,qa/synthetic_v0417/evidence/synth_bonus_actors/execution.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_bonus_actors/f03050.png,qa/synthetic_v0417/evidence/synth_bonus_actors/f03050.png,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_bonus_actors/trace.tsv,qa/synthetic_v0417/evidence/synth_bonus_actors/trace.tsv,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_bonus_recon/RUN.json,qa/synthetic_v0417/evidence/synth_bonus_recon/RUN.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_bonus_recon/completed.json,qa/synthetic_v0417/evidence/synth_bonus_recon/completed.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_bonus_recon/execution.json,qa/synthetic_v0417/evidence/synth_bonus_recon/execution.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_bonus_recon/target_3D855C_f06776.png,qa/synthetic_v0417/evidence/synth_bonus_recon/target_3D855C_f06776.png,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_bonus_recon/target_3D8DD2_f06613.png,qa/synthetic_v0417/evidence/synth_bonus_recon/target_3D8DD2_f06613.png,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_bonus_recon/trace.tsv,qa/synthetic_v0417/evidence/synth_bonus_recon/trace.tsv,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_end_high_nonzero_final/REVIEW.json,qa/synthetic_v0417/evidence/synth_end_high_nonzero_final/REVIEW.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_end_high_nonzero_final/REVIEW_RESULT.json,qa/synthetic_v0417/evidence/synth_end_high_nonzero_final/REVIEW_RESULT.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_end_high_nonzero_final/RUN.json,qa/synthetic_v0417/evidence/synth_end_high_nonzero_final/RUN.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_end_high_nonzero_final/completed.json,qa/synthetic_v0417/evidence/synth_end_high_nonzero_final/completed.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_end_high_nonzero_final/execution.json,qa/synthetic_v0417/evidence/synth_end_high_nonzero_final/execution.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_end_high_nonzero_final/f01000.png,qa/synthetic_v0417/evidence/synth_end_high_nonzero_final/f01000.png,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_end_high_nonzero_final/trace.tsv,qa/synthetic_v0417/evidence/synth_end_high_nonzero_final/trace.tsv,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_end_high_zero_a_final/REVIEW.json,qa/synthetic_v0417/evidence/synth_end_high_zero_a_final/REVIEW.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_end_high_zero_a_final/REVIEW_RESULT.json,qa/synthetic_v0417/evidence/synth_end_high_zero_a_final/REVIEW_RESULT.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_end_high_zero_a_final/RUN.json,qa/synthetic_v0417/evidence/synth_end_high_zero_a_final/RUN.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_end_high_zero_a_final/completed.json,qa/synthetic_v0417/evidence/synth_end_high_zero_a_final/completed.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_end_high_zero_a_final/execution.json,qa/synthetic_v0417/evidence/synth_end_high_zero_a_final/execution.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_end_high_zero_a_final/f01000.png,qa/synthetic_v0417/evidence/synth_end_high_zero_a_final/f01000.png,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_end_high_zero_a_final/trace.tsv,qa/synthetic_v0417/evidence/synth_end_high_zero_a_final/trace.tsv,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_end_high_zero_b_final/REVIEW.json,qa/synthetic_v0417/evidence/synth_end_high_zero_b_final/REVIEW.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_end_high_zero_b_final/REVIEW_RESULT.json,qa/synthetic_v0417/evidence/synth_end_high_zero_b_final/REVIEW_RESULT.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_end_high_zero_b_final/RUN.json,qa/synthetic_v0417/evidence/synth_end_high_zero_b_final/RUN.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_end_high_zero_b_final/completed.json,qa/synthetic_v0417/evidence/synth_end_high_zero_b_final/completed.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_end_high_zero_b_final/execution.json,qa/synthetic_v0417/evidence/synth_end_high_zero_b_final/execution.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_end_high_zero_b_final/f01000.png,qa/synthetic_v0417/evidence/synth_end_high_zero_b_final/f01000.png,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_end_high_zero_b_final/trace.tsv,qa/synthetic_v0417/evidence/synth_end_high_zero_b_final/trace.tsv,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_end_low_final/REVIEW.json,qa/synthetic_v0417/evidence/synth_end_low_final/REVIEW.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_end_low_final/REVIEW_RESULT.json,qa/synthetic_v0417/evidence/synth_end_low_final/REVIEW_RESULT.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_end_low_final/RUN.json,qa/synthetic_v0417/evidence/synth_end_low_final/RUN.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_end_low_final/completed.json,qa/synthetic_v0417/evidence/synth_end_low_final/completed.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_end_low_final/execution.json,qa/synthetic_v0417/evidence/synth_end_low_final/execution.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_end_low_final/f01000.png,qa/synthetic_v0417/evidence/synth_end_low_final/f01000.png,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_end_low_final/trace.tsv,qa/synthetic_v0417/evidence/synth_end_low_final/trace.tsv,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_end_middle_final/REVIEW.json,qa/synthetic_v0417/evidence/synth_end_middle_final/REVIEW.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_end_middle_final/REVIEW_RESULT.json,qa/synthetic_v0417/evidence/synth_end_middle_final/REVIEW_RESULT.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_end_middle_final/RUN.json,qa/synthetic_v0417/evidence/synth_end_middle_final/RUN.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_end_middle_final/completed.json,qa/synthetic_v0417/evidence/synth_end_middle_final/completed.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_end_middle_final/execution.json,qa/synthetic_v0417/evidence/synth_end_middle_final/execution.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_end_middle_final/f01000.png,qa/synthetic_v0417/evidence/synth_end_middle_final/f01000.png,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_end_middle_final/trace.tsv,qa/synthetic_v0417/evidence/synth_end_middle_final/trace.tsv,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_ended_recheck/REVIEW.json,qa/synthetic_v0417/evidence/synth_ended_recheck/REVIEW.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_ended_recheck/REVIEW_RESULT.json,qa/synthetic_v0417/evidence/synth_ended_recheck/REVIEW_RESULT.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_ended_recheck/RUN.json,qa/synthetic_v0417/evidence/synth_ended_recheck/RUN.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_ended_recheck/assisted_transition.json,qa/synthetic_v0417/evidence/synth_ended_recheck/assisted_transition.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_ended_recheck/completed.json,qa/synthetic_v0417/evidence/synth_ended_recheck/completed.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_ended_recheck/ended_load.json,qa/synthetic_v0417/evidence/synth_ended_recheck/ended_load.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_ended_recheck/execution.json,qa/synthetic_v0417/evidence/synth_ended_recheck/execution.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_ended_recheck/f1000.png,qa/synthetic_v0417/evidence/synth_ended_recheck/f1000.png,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_buffer_stop/REVIEW.json,qa/synthetic_v0417/evidence/synth_notice_buffer_stop/REVIEW.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_buffer_stop/REVIEW_RESULT.json,qa/synthetic_v0417/evidence/synth_notice_buffer_stop/REVIEW_RESULT.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_buffer_stop/RUN.json,qa/synthetic_v0417/evidence/synth_notice_buffer_stop/RUN.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_buffer_stop/completed.json,qa/synthetic_v0417/evidence/synth_notice_buffer_stop/completed.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_buffer_stop/execution.json,qa/synthetic_v0417/evidence/synth_notice_buffer_stop/execution.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_buffer_stop/notice_f06600.png,qa/synthetic_v0417/evidence/synth_notice_buffer_stop/notice_f06600.png,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_buffer_stop/trace.tsv,qa/synthetic_v0417/evidence/synth_notice_buffer_stop/trace.tsv,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_cab_signal/REVIEW.json,qa/synthetic_v0417/evidence/synth_notice_cab_signal/REVIEW.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_cab_signal/REVIEW_RESULT.json,qa/synthetic_v0417/evidence/synth_notice_cab_signal/REVIEW_RESULT.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_cab_signal/RUN.json,qa/synthetic_v0417/evidence/synth_notice_cab_signal/RUN.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_cab_signal/completed.json,qa/synthetic_v0417/evidence/synth_notice_cab_signal/completed.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_cab_signal/execution.json,qa/synthetic_v0417/evidence/synth_notice_cab_signal/execution.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_cab_signal/notice_f06600.png,qa/synthetic_v0417/evidence/synth_notice_cab_signal/notice_f06600.png,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_cab_signal/trace.tsv,qa/synthetic_v0417/evidence/synth_notice_cab_signal/trace.tsv,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_hard_braking/REVIEW.json,qa/synthetic_v0417/evidence/synth_notice_hard_braking/REVIEW.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_hard_braking/REVIEW_RESULT.json,qa/synthetic_v0417/evidence/synth_notice_hard_braking/REVIEW_RESULT.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_hard_braking/RUN.json,qa/synthetic_v0417/evidence/synth_notice_hard_braking/RUN.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_hard_braking/completed.json,qa/synthetic_v0417/evidence/synth_notice_hard_braking/completed.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_hard_braking/execution.json,qa/synthetic_v0417/evidence/synth_notice_hard_braking/execution.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_hard_braking/notice_f06600.png,qa/synthetic_v0417/evidence/synth_notice_hard_braking/notice_f06600.png,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_hard_braking/trace.tsv,qa/synthetic_v0417/evidence/synth_notice_hard_braking/trace.tsv,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_move_train/REVIEW.json,qa/synthetic_v0417/evidence/synth_notice_move_train/REVIEW.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_move_train/REVIEW_RESULT.json,qa/synthetic_v0417/evidence/synth_notice_move_train/REVIEW_RESULT.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_move_train/RUN.json,qa/synthetic_v0417/evidence/synth_notice_move_train/RUN.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_move_train/completed.json,qa/synthetic_v0417/evidence/synth_notice_move_train/completed.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_move_train/execution.json,qa/synthetic_v0417/evidence/synth_notice_move_train/execution.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_move_train/notice_f06600.png,qa/synthetic_v0417/evidence/synth_notice_move_train/notice_f06600.png,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_move_train/trace.tsv,qa/synthetic_v0417/evidence/synth_notice_move_train/trace.tsv,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_sign_ignored/REVIEW.json,qa/synthetic_v0417/evidence/synth_notice_sign_ignored/REVIEW.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_sign_ignored/REVIEW_RESULT.json,qa/synthetic_v0417/evidence/synth_notice_sign_ignored/REVIEW_RESULT.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_sign_ignored/RUN.json,qa/synthetic_v0417/evidence/synth_notice_sign_ignored/RUN.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_sign_ignored/completed.json,qa/synthetic_v0417/evidence/synth_notice_sign_ignored/completed.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_sign_ignored/execution.json,qa/synthetic_v0417/evidence/synth_notice_sign_ignored/execution.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_sign_ignored/notice_f06600.png,qa/synthetic_v0417/evidence/synth_notice_sign_ignored/notice_f06600.png,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_sign_ignored/trace.tsv,qa/synthetic_v0417/evidence/synth_notice_sign_ignored/trace.tsv,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_speed_limit/REVIEW.json,qa/synthetic_v0417/evidence/synth_notice_speed_limit/REVIEW.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_speed_limit/REVIEW_RESULT.json,qa/synthetic_v0417/evidence/synth_notice_speed_limit/REVIEW_RESULT.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_speed_limit/RUN.json,qa/synthetic_v0417/evidence/synth_notice_speed_limit/RUN.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_speed_limit/completed.json,qa/synthetic_v0417/evidence/synth_notice_speed_limit/completed.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_speed_limit/execution.json,qa/synthetic_v0417/evidence/synth_notice_speed_limit/execution.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_speed_limit/notice_f06600.png,qa/synthetic_v0417/evidence/synth_notice_speed_limit/notice_f06600.png,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_speed_limit/trace.tsv,qa/synthetic_v0417/evidence/synth_notice_speed_limit/trace.tsv,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_warning22/REVIEW.json,qa/synthetic_v0417/evidence/synth_notice_warning22/REVIEW.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_warning22/REVIEW_RESULT.json,qa/synthetic_v0417/evidence/synth_notice_warning22/REVIEW_RESULT.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_warning22/RUN.json,qa/synthetic_v0417/evidence/synth_notice_warning22/RUN.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_warning22/completed.json,qa/synthetic_v0417/evidence/synth_notice_warning22/completed.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_warning22/execution.json,qa/synthetic_v0417/evidence/synth_notice_warning22/execution.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_warning22/notice_f06600.png,qa/synthetic_v0417/evidence/synth_notice_warning22/notice_f06600.png,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_warning22/trace.tsv,qa/synthetic_v0417/evidence/synth_notice_warning22/trace.tsv,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_warning28/REVIEW.json,qa/synthetic_v0417/evidence/synth_notice_warning28/REVIEW.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_warning28/REVIEW_RESULT.json,qa/synthetic_v0417/evidence/synth_notice_warning28/REVIEW_RESULT.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_warning28/RUN.json,qa/synthetic_v0417/evidence/synth_notice_warning28/RUN.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_warning28/completed.json,qa/synthetic_v0417/evidence/synth_notice_warning28/completed.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_warning28/execution.json,qa/synthetic_v0417/evidence/synth_notice_warning28/execution.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_warning28/notice_f06600.png,qa/synthetic_v0417/evidence/synth_notice_warning28/notice_f06600.png,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_notice_warning28/trace.tsv,qa/synthetic_v0417/evidence/synth_notice_warning28/trace.tsv,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_penalty_object_v2/REVIEW.json,qa/synthetic_v0417/evidence/synth_penalty_object_v2/REVIEW.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_penalty_object_v2/REVIEW_RESULT.json,qa/synthetic_v0417/evidence/synth_penalty_object_v2/REVIEW_RESULT.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_penalty_object_v2/RUN.json,qa/synthetic_v0417/evidence/synth_penalty_object_v2/RUN.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_penalty_object_v2/completed.json,qa/synthetic_v0417/evidence/synth_penalty_object_v2/completed.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_penalty_object_v2/execution.json,qa/synthetic_v0417/evidence/synth_penalty_object_v2/execution.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_penalty_object_v2/f03050.png,qa/synthetic_v0417/evidence/synth_penalty_object_v2/f03050.png,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/synth_penalty_object_v2/trace.tsv,qa/synthetic_v0417/evidence/synth_penalty_object_v2/trace.tsv,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/warning31_not_approved/execution.json,qa/synthetic_v0417/evidence/warning31_not_approved/execution.json,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+qa/synthetic_v0417/evidence/warning31_not_approved/run.log,qa/synthetic_v0417/evidence/warning31_not_approved/run.log,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+roms/README.md,roms/README.md,retained,evidence/documentation,Active paths unchanged; original evidence retained.
+tools/apply_patch.py,tools/apply_patch.py,retained,active source,Active paths unchanged; original evidence retained.
+tools/build.py,tools/build.py,retained,active source,Active paths unchanged; original evidence retained.
+tools/check_release.py,tools/check_release.py,retained,active source,Active paths unchanged; original evidence retained.
+tools/codec.py,tools/codec.py,retained,active source,Active paths unchanged; original evidence retained.
+tools/export_resource.py,tools/export_resource.py,retained,active source,Active paths unchanged; original evidence retained.
+tools/run_mesen.py,tools/run_mesen.py,retained,active source,Active paths unchanged; original evidence retained.
+translations/GLOBAL_RESOURCE_INVENTORY.json,translations/GLOBAL_RESOURCE_INVENTORY.json,retained,active source,Active paths unchanged; original evidence retained.
+translations/GLOSSARY.json,translations/GLOSSARY.json,retained,active source,Active paths unchanged; original evidence retained.
+translations/PENDING_REVIEW.json,translations/PENDING_REVIEW.json,retained,active source,Active paths unchanged; original evidence retained.
+translations/TRANSLATION_LEDGER.json,translations/TRANSLATION_LEDGER.json,retained,active source,Active paths unchanged; original evidence retained.
+translations/headings.json,translations/headings.json,retained,active source,Active paths unchanged; original evidence retained.
+translations/resource_overrides.json,translations/resource_overrides.json,retained,active source,Active paths unchanged; original evidence retained.
+vendor/ws_patch_tools/LICENSE,vendor/ws_patch_tools/LICENSE,retained,active source,Active paths unchanged; original evidence retained.
+vendor/ws_patch_tools/__init__.py,vendor/ws_patch_tools/__init__.py,retained,active source,Active paths unchanged; original evidence retained.
+vendor/ws_patch_tools/bps.py,vendor/ws_patch_tools/bps.py,retained,active source,Active paths unchanged; original evidence retained.
+vendor/ws_patch_tools/ips.py,vendor/ws_patch_tools/ips.py,retained,active source,Active paths unchanged; original evidence retained.
+vendor/ws_patch_tools/util.py,vendor/ws_patch_tools/util.py,retained,active source,Active paths unchanged; original evidence retained.
+(new),docs/TECHNICAL_FINDINGS.md,added,publication documentation,English technical index or file disposition
+(new),docs/PACKAGING_MANIFEST.md,added,publication documentation,English technical index or file disposition
+(new),docs/SOURCE_DISPOSITION.csv,added,publication documentation,English technical index or file disposition

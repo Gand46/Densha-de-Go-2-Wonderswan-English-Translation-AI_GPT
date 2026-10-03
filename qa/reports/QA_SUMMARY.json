@@ -1,0 +1,35 @@
+{
+  "version": "0.4.17",
+  "structural_integrity": "PASS_WITHIN_AUDITED_SCOPE",
+  "rom_damage_found": "Two malformed English result headings in v0.4.16; repaired. No structural corruption detected.",
+  "unlock_result": "Six courses accessible using buttons only. Page two was incorrectly classified as locked.",
+  "new_headings_fixed": 2,
+  "aborted_runtime": "NATURAL_BUTTON_INPUT",
+  "ended_runtime": "ASSISTED_WRAM_SUBSTATE_0x88_REAL_CONSUMER",
+  "ended_natural_completion": "PENDING: 45000-frame timer-assisted route reached credits but not this screen",
+  "environment_resources": 2915,
+  "environment_resources_equal_original": 2915,
+  "environment_static_visual_sample": 204,
+  "environment_not_individually_visually_reviewed": 2711,
+  "environment_runtime_unique_streams": 143,
+  "new_confident_japanese_environment_transcriptions": 0,
+  "translation_complete": false,
+  "whole_game_clearance": false,
+  "pixel_comparisons": {
+    "compared_screens": 74,
+    "identical_screens": 69,
+    "changed_only_in_heading": 5
+  },
+  "excluded_initial_runs": [
+    "natural_osaka_local: right input too early, actually Hokuhoku",
+    "natural_akita_hard: right input too early, actually Akita normal"
+  ],
+  "known_inherited_logs": "Boot reads D0..DF; matched original. No new sustained crash observed.",
+  "pending": [
+    "Environmental tiny signs/advertisements and five train-photo destination boards",
+    "RUN ENDED via unassisted full completion",
+    "Performance-dependent ending branches and their consumer contexts",
+    "Bonus/coupling variants and rare notices",
+    "Terminology and abbreviations, including AKITA SHINKAN"
+  ]
+}

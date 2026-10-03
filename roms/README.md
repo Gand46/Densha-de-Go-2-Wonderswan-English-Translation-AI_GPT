@@ -1,0 +1,1 @@
+Place your own original Japanese ROM here as `original.ws`, or supply its path to the builder. Expected SHA-256 is in project.json. ROM files are ignored by Git and are not included in the public source package.

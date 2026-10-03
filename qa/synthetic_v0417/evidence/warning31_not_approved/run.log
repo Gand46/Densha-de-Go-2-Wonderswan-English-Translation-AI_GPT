@@ -1,0 +1,22 @@
+------------------------------
+Color supported: No
+Save RAM size: 0 KB
+Cart EEPROM size: 0 bytes
+Mapper: Bandai 2001 / KARNAK
+------------------------------
+[WS] Uninitialized memory read: $000D8
+[WS] Uninitialized memory read: $000D9
+[WS] Uninitialized memory read: $000DA
+[WS] Uninitialized memory read: $000DB
+[WS] Uninitialized memory read: $000DC
+[WS] Uninitialized memory read: $000DD
+[WS] Uninitialized memory read: $000DE
+[WS] Uninitialized memory read: $000DF
+[WS] Uninitialized memory read: $000D0
+[WS] Uninitialized memory read: $000D1
+[WS] Uninitialized memory read: $000D2
+[WS] Uninitialized memory read: $000D3
+[WS] Uninitialized memory read: $000D4
+[WS] Uninitialized memory read: $000D5
+[WS] Uninitialized memory read: $000D6
+[WS] Uninitialized memory read: $000D7

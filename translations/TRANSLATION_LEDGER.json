@@ -1,0 +1,84 @@
+[
+  {
+    "id": "W16-001",
+    "source_jp": "イージー",
+    "translation_en": "EASY",
+    "context": "Difficulty: easy / normal / hard / very hard",
+    "resource": "0x3D5D07 tiles 67-71,83-87",
+    "translated": true,
+    "integrated": true,
+    "runtime_confirmed": true,
+    "linguistic_approved": true,
+    "visual_approved": true,
+    "functional_approved": true,
+    "access_method": "SCRIPTED_NATURAL",
+    "evidence": [
+      "evidence/runtime/options_before/f980.png",
+      "evidence/runtime/options_after/f980.png"
+    ]
+  },
+  {
+    "id": "W16-002",
+    "source_en": "COORDINATER",
+    "translation_en": "COORDINATOR",
+    "resource": "0x3E2BD2",
+    "translated": true,
+    "integrated": true,
+    "runtime_confirmed": true,
+    "linguistic_approved": true,
+    "visual_approved": true,
+    "functional_approved": true,
+    "access_method": "FREEZE",
+    "note": "Inherited typo confirmed in Japanese original. Credits reached with TIME UP freeze.",
+    "evidence": [
+      "evidence/runtime/original/f044000_course.png",
+      "evidence/runtime/v0416_hokuhoku/f044000_course.png"
+    ]
+  },
+  {
+    "id": "W16-003",
+    "source_en": "GAMESTART",
+    "translation_en": "START",
+    "resource": "0x3F587B tilemap writer",
+    "translated": true,
+    "integrated": true,
+    "runtime_confirmed": true,
+    "linguistic_approved": true,
+    "visual_approved": true,
+    "functional_approved": true,
+    "access_method": "SCRIPTED_NATURAL",
+    "evidence": [
+      "evidence/runtime/baseline15/f000500_course.png",
+      "evidence/runtime/v0416_hokuhoku/f000500_course.png"
+    ]
+  },
+  {
+    "id": "W17-001",
+    "source_jp": "運転中止",
+    "translation_en": "RUN ABORTED",
+    "resource": "0x3D63E8",
+    "translated": true,
+    "integrated": true,
+    "runtime_confirmed": true,
+    "linguistic_reviewed": true,
+    "visual_approved": true,
+    "access_method": "SCRIPTED_NATURAL",
+    "consumer": "F000:33DD -> E000:C186; load WRAM 0x2E40; tilemap 0x1950, 12x4",
+    "evidence": "evidence/runtime/gameover_v17_verified/f013000_course.png"
+  },
+  {
+    "id": "W17-002",
+    "source_jp": "運転終了",
+    "translation_en": "RUN ENDED",
+    "resource": "0x3D61C0",
+    "translated": true,
+    "integrated": true,
+    "runtime_confirmed": true,
+    "linguistic_reviewed": true,
+    "visual_approved": true,
+    "access_method": "WRAM_SUBSTATE_INJECTION",
+    "natural_completion_verified": false,
+    "consumer": "F000:3A53; load WRAM 0x2CC0; sprite consumer 0x36",
+    "evidence": "evidence/runtime/ended_v17_assisted/f1000.png"
+  }
+]

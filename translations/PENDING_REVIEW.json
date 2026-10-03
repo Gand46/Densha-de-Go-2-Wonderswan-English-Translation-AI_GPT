@@ -1,0 +1,66 @@
+[
+  {
+    "id": "ENV-URBAN",
+    "scope": "Banks 03\u201320, urban fa\u00e7ades and advertisements",
+    "example_streams": [
+      "0x030052",
+      "0x03A703",
+      "0x100068"
+    ],
+    "jp_transcription": null,
+    "status": "NEEDS_RELIABLE_READING_AND_CONTEXT",
+    "changes_made": false
+  },
+  {
+    "id": "ENV-STATION",
+    "scope": "Station platform signage/advertisements",
+    "example_streams": [
+      "0x3600BE",
+      "0x370070",
+      "0x371294"
+    ],
+    "jp_transcription": null,
+    "status": "NEEDS_RELIABLE_READING_AND_CONTEXT",
+    "changes_made": false
+  },
+  {
+    "id": "PHOTO-TRAIN",
+    "scope": "Five bank 02 train-photo destination displays",
+    "streams": [
+      "0x020241",
+      "0x020E65",
+      "0x021AD8",
+      "0x022657",
+      "0x0230A8"
+    ],
+    "jp_transcription": null,
+    "status": "NEEDS_RELIABLE_READING_AND_CONTEXT"
+  },
+  {
+    "id": "TERM-AKITA",
+    "observed": "AKITA SHINKAN",
+    "status": "ABBREVIATION_REVIEW",
+    "context": "Both course selector pages"
+  },
+  {
+    "id": "END-NATURAL",
+    "text": "RUN ENDED",
+    "status": "GRAPHIC_FIXED_ACTUAL_CONSUMER_VERIFIED_NATURAL_COMPLETION_PENDING"
+  },
+  {
+    "id": "END-PERFORMANCE",
+    "status": "CONDITIONS_AND_SCENES_NEED_RUNTIME_CONTEXT",
+    "code": "F000:373A",
+    "observed_conditions": [
+      "WRAM 0x078F",
+      "WRAM 0x077F..0x0781",
+      "WRAM 0x019C"
+    ],
+    "note": "Not evidence of locked course access."
+  },
+  {
+    "id": "RARE-EVENTS",
+    "scope": "Bonus/coupling and rare notices",
+    "status": "RUNTIME_VARIANTS_PENDING"
+  }
+]

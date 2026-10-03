@@ -1,0 +1,12 @@
+{
+  "original_first_use_count": 145,
+  "english_first_use_count": 143,
+  "english_matches_original_prefix": true,
+  "english_streams_all_in_inventory": true,
+  "consumer": "E000:C186",
+  "destinations": [
+    "0x2fc0",
+    "0x37e0"
+  ],
+  "note": "First-use trace, not every reload. Slight frame timing differences and two extra first-use entries at the end of the Japanese run. No claim of frame-perfect rendering between JP and EN."
+}

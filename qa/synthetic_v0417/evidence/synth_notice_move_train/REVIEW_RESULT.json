@@ -1,0 +1,14 @@
+{
+  "result": "PASS_SYNTHETIC",
+  "scope": "consumer",
+  "statement": "MOVE THE TRAIN; real engine resource load observed after WRAM_POINTER_INJECTION. This approves consumer behavior only.",
+  "rom_sha256": "bf9db9f19abca263c7d90076037e41c8e27625da34ea9eba101762f777758513",
+  "evidence": {
+    "trace.tsv": "620c5e3865df1df1a8ca54d54a9199a0a48bae7c8a3889d845e452fb9f12e2ee",
+    "notice_f06600.png": "bb2443857af72afc8d38950967d495ed8cc04769e80313b90b7b69ba8dc165e6"
+  },
+  "natural_pass": false,
+  "global_approval": "NOT_VALIDATED",
+  "persistence": "NOT_VALIDATED",
+  "basis": "Revisión explícita del material identificado; el validador comprueba trazabilidad, no visión."
+}

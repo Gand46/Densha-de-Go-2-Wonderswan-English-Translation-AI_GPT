@@ -1,0 +1,16 @@
+{
+  "name": "Densha de Go! 2 English Translation",
+  "rom_version": "0.4.17",
+  "release_tag": "v0.4.17-test",
+  "release_status": "TEST_PRERELEASE",
+  "release_candidate": false,
+  "original_sha256": "3ec68e02fa964383d6a0792aca7e53ab005e17a768a8546eb6dc5ed482db7c29",
+  "baseline_sha256": "643363ab9f8d5c466a0e01ca14b22a4c8e65d76c7a5bb927139ec8e755a45f3b",
+  "target_sha256": "bf9db9f19abca263c7d90076037e41c8e27625da34ea9eba101762f777758513",
+  "rom_bytes": 4194304,
+  "checksum": "0x5c91",
+  "baseline_patch": "assets/baseline_v0416_cumulative.ips",
+  "previous_rom_version": "0.4.16",
+  "headings": "translations/headings.json",
+  "resource_overrides": "translations/resource_overrides.json"
+}

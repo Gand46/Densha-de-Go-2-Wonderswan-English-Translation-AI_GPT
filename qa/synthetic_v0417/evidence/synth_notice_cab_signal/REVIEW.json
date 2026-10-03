@@ -1,0 +1,16 @@
+{
+  "rom_sha256": "bf9db9f19abca263c7d90076037e41c8e27625da34ea9eba101762f777758513",
+  "run_sha256": "ae3d6ec073f701dd8017196a0e3edc7dcc8835bf6aa647b87c497e7d77999171",
+  "natural_pass": false,
+  "scope": "consumer",
+  "reviewer": "Codex: Mesen 2.1.1 and direct capture inspection",
+  "statement": "CAB SIGNAL IGNORED; real engine resource load observed after WRAM_POINTER_INJECTION. This approves consumer behavior only.",
+  "evidence": {
+    "trace.tsv": "b75ced64a49d97f3387354bcfbfa76bee1a0cabbdba22502a424867e1b19653c",
+    "notice_f06600.png": "a1943b00ef6524eb87352d91b48f62438bc5becf48b74aed2e7e812cbee07774"
+  },
+  "checks": {
+    "consumer_observed": "PASS",
+    "expected_effect_observed": "PASS"
+  }
+}

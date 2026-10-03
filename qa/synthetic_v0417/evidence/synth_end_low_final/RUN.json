@@ -1,0 +1,13 @@
+{
+  "rom_sha256": "bf9db9f19abca263c7d90076037e41c8e27625da34ea9eba101762f777758513",
+  "completion_confirmed": true,
+  "access_method": "WRAM_SUBSTATE_AND_SCORE_INJECTION",
+  "source_execution_sha256": "4bd5f8f9c87b993480985c67264c71f3c5b88fb565b07820539b17d54616bf2c",
+  "source_lua_sha256": "279e6c637a8993d1fe66217466fd257b13aa029314300f22e2493dad493cb58b",
+  "files": {
+    "f01000.png": "9fc8a9da607aab93c9df34c020552bdd7c450d5eaacad1e80f07654c42081c3d",
+    "completed.json": "bd43bf789e1a34db65c3a793b15e7f0a633f5cca8b961981b87ee07f524e16b0",
+    "execution.json": "4bd5f8f9c87b993480985c67264c71f3c5b88fb565b07820539b17d54616bf2c",
+    "trace.tsv": "1fb70c573948ecdc417109e3687012e1714f2b0f9ee8bc605c492cf81d69dc14"
+  }
+}

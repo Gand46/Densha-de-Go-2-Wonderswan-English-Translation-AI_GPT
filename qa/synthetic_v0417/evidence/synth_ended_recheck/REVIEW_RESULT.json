@@ -1,0 +1,14 @@
+{
+  "result": "PASS_SYNTHETIC",
+  "scope": "consumer",
+  "statement": "RUN ENDED: consumidor directo; real engine resource load observed after WRAM_SUBSTATE_INJECTION. This approves consumer behavior only.",
+  "rom_sha256": "bf9db9f19abca263c7d90076037e41c8e27625da34ea9eba101762f777758513",
+  "evidence": {
+    "ended_load.json": "458a47de5553ba880348d5c8bbe60a122f7d5845d452ded56ba0e2e012d2c5da",
+    "f1000.png": "9fc8a9da607aab93c9df34c020552bdd7c450d5eaacad1e80f07654c42081c3d"
+  },
+  "natural_pass": false,
+  "global_approval": "NOT_VALIDATED",
+  "persistence": "NOT_VALIDATED",
+  "basis": "Revisión explícita del material identificado; el validador comprueba trazabilidad, no visión."
+}

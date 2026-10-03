@@ -1,0 +1,1 @@
+{"method":"WRAM_SUBSTATE_INJECTION","address":"0x0395","before":1,"after":136,"dispatcher":"F000:2FD2 -> F000:2DF0 -> F000:373A -> F000:3A53","natural_completion":false}

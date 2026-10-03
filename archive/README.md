@@ -1,0 +1,1 @@
+Recovered historical builders are reference material, not the supported build entry point. Some contain `/mnt/data` paths or dependencies on missing intermediate historical packages. Keep them for provenance and implementation reference. The current cumulative constructor is `tools/build.py`; it needs no historical intermediate ROM.

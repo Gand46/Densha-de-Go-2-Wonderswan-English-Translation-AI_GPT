@@ -1,0 +1,26 @@
+[
+  {
+    "source": "イージー",
+    "en": "EASY",
+    "context": "DIFFICULTY",
+    "approved": true
+  },
+  {
+    "source": "COORDINATER",
+    "en": "COORDINATOR",
+    "context": "STAFF role; inherited English typo",
+    "approved": true
+  },
+  {
+    "source": "GAMESTART",
+    "en": "START",
+    "context": "main menu starts new game",
+    "approved": true
+  },
+  {
+    "en": "AKITA SHINKAN",
+    "full_form": "Akita Shinkansen",
+    "context": "existing course selector abbreviation",
+    "status": "NEEDS_REVIEW; unchanged in v0.4.16"
+  }
+]

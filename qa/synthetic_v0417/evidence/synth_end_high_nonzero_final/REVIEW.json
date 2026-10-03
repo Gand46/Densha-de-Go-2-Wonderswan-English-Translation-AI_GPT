@@ -1,0 +1,16 @@
+{
+  "rom_sha256": "bf9db9f19abca263c7d90076037e41c8e27625da34ea9eba101762f777758513",
+  "run_sha256": "a443ec880f2d7925064c57f7a15115c12c4ebd68fdda0e4cc8b383146acdb9a0",
+  "natural_pass": false,
+  "scope": "consumer",
+  "reviewer": "Codex: Mesen 2.1.1 and direct capture inspection",
+  "statement": "RUN ENDED: rama high_nonzero; real engine resource load observed after WRAM_SUBSTATE_AND_SCORE_INJECTION. This approves consumer behavior only.",
+  "evidence": {
+    "trace.tsv": "7e3a5d95af68c9b297f2b98327dedd3340e2a2697215c67bed74863121d5b3a4",
+    "f01000.png": "c7725e446c09e7a3a62f057fde3a7252166be995bee2f1255e2f8ec417cc9645"
+  },
+  "checks": {
+    "consumer_observed": "PASS",
+    "expected_effect_observed": "PASS"
+  }
+}

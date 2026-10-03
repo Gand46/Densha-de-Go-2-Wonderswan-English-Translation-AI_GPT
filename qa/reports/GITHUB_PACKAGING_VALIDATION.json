@@ -1,0 +1,13 @@
+{
+  "rom_sha256": "bf9db9f19abca263c7d90076037e41c8e27625da34ea9eba101762f777758513",
+  "clean_constructor_exact": true,
+  "all_four_patches_exact": true,
+  "source_guard_report": "SOURCE_GUARDS.json",
+  "patch_applicator_exact": true,
+  "linux_mesen_options_seconds": 3.312,
+  "options_screens_identical": 15,
+  "python_optimized_mode_guard_verification": true,
+  "windows_bat_executed": false,
+  "remote_published": false,
+  "status": "TEST_PRERELEASE"
+}

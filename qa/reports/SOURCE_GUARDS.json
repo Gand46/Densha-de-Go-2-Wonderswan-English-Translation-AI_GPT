@@ -1,0 +1,9 @@
+{
+  "modified_frozen_release_rejected_under_python_O": true,
+  "no_outputs_on_rejection": true,
+  "development_output_explicitly_named": true,
+  "spaces_and_unicode_path_tested": true,
+  "generic_resource_export_and_override_tested": true,
+  "altered_text_used_only_in_temporary_test": true,
+  "official_release_unchanged": true
+}

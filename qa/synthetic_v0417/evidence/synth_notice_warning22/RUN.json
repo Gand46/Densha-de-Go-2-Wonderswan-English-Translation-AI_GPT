@@ -1,0 +1,13 @@
+{
+  "rom_sha256": "bf9db9f19abca263c7d90076037e41c8e27625da34ea9eba101762f777758513",
+  "completion_confirmed": true,
+  "access_method": "WRAM_POINTER_INJECTION",
+  "source_execution_sha256": "d474c502b2c92cd01434f97c6f2d6ed33f4053001ff9297e7ff685b4ade7d6f2",
+  "source_lua_sha256": "42cc4b51a7b0664b6517b1a7ef2c17a70e4eb0350b009b4cc31bd172c2d28fd2",
+  "files": {
+    "notice_f06600.png": "83551a3723544b98357048e2e59d511e135638609caa33168144fd456e2db7c3",
+    "completed.json": "fd9048d389ab7ba8df16460025b8b8edbc530e4c0173abe958a93d86c85d839b",
+    "execution.json": "d474c502b2c92cd01434f97c6f2d6ed33f4053001ff9297e7ff685b4ade7d6f2",
+    "trace.tsv": "8f6dc482371aee6e9f4edcb2ae2fb8912d4e2133fa8721bcc9af18a79850a1db"
+  }
+}

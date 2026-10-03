@@ -1,0 +1,12 @@
+[
+  {
+    "offset": "0x3D61C0",
+    "source_jp": "運転終了",
+    "text": "RUN ENDED"
+  },
+  {
+    "offset": "0x3D63E8",
+    "source_jp": "運転中止",
+    "text": "RUN ABORTED"
+  }
+]

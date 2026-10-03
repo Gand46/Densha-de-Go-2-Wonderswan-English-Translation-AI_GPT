@@ -1,0 +1,14 @@
+{
+  "result": "PASS_SYNTHETIC",
+  "scope": "consumer",
+  "statement": "RUN ENDED: rama high_zero_b; real engine resource load observed after WRAM_SUBSTATE_AND_SCORE_INJECTION. This approves consumer behavior only.",
+  "rom_sha256": "bf9db9f19abca263c7d90076037e41c8e27625da34ea9eba101762f777758513",
+  "evidence": {
+    "trace.tsv": "4ace69542d92c3e31b94a909551e14e14d8e2f8fc05eddba8e7d27d4f908c2d7",
+    "f01000.png": "44c821459e08a79b134b216d3860a257a808a8d46e7e2f259531e7cf2aa23740"
+  },
+  "natural_pass": false,
+  "global_approval": "NOT_VALIDATED",
+  "persistence": "NOT_VALIDATED",
+  "basis": "Revisión explícita del material identificado; el validador comprueba trazabilidad, no visión."
+}

@@ -1,0 +1,550 @@
+{
+  "compared_screens": 74,
+  "identical_screens": 69,
+  "changed_only_in_heading": 5,
+  "comparisons": [
+    {
+      "test": "aborted",
+      "file": "f000420_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "aborted",
+      "file": "f000500_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "aborted",
+      "file": "f000820_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "aborted",
+      "file": "f001200_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "aborted",
+      "file": "f001450_selection_verified.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "aborted",
+      "file": "f001550_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "aborted",
+      "file": "f001700_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "aborted",
+      "file": "f002250_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "aborted",
+      "file": "f003000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "aborted",
+      "file": "f004000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "aborted",
+      "file": "f005000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "aborted",
+      "file": "f006000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "aborted",
+      "file": "f007000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "aborted",
+      "file": "f008000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "aborted",
+      "file": "f009000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "aborted",
+      "file": "f010000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "aborted",
+      "file": "f011000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "aborted",
+      "file": "f012000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "aborted",
+      "file": "f013000_course.png",
+      "changed_pixels": 457,
+      "bbox": [
+        74,
+        43,
+        150,
+        53
+      ],
+      "outside_heading_changed": false
+    },
+    {
+      "test": "aborted",
+      "file": "f013200_final.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "ended",
+      "file": "f1000.png",
+      "changed_pixels": 343,
+      "bbox": [
+        81,
+        43,
+        143,
+        53
+      ],
+      "outside_heading_changed": false
+    },
+    {
+      "test": "ended",
+      "file": "f1050.png",
+      "changed_pixels": 343,
+      "bbox": [
+        81,
+        43,
+        143,
+        53
+      ],
+      "outside_heading_changed": false
+    },
+    {
+      "test": "ended",
+      "file": "f1100.png",
+      "changed_pixels": 343,
+      "bbox": [
+        81,
+        43,
+        143,
+        53
+      ],
+      "outside_heading_changed": false
+    },
+    {
+      "test": "ended",
+      "file": "f950.png",
+      "changed_pixels": 343,
+      "bbox": [
+        81,
+        43,
+        143,
+        53
+      ],
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f000420_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f000500_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f000820_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f001200_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f001550_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f001700_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f002250_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f003000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f004000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f005000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f006000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f007000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f008000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f009000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f010000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f011000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f012000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f013000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f014000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f015000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f016000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f017000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f018000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f019000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f020000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f021000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f022000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f023000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f024000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f025000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f026000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f027000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f028000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f029000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f030000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f031000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f032000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f033000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f034000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f035000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f036000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f037000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f038000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f039000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f040000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f041000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f042000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f043000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f044000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    },
+    {
+      "test": "fullroute",
+      "file": "f045000_course.png",
+      "changed_pixels": 0,
+      "bbox": null,
+      "outside_heading_changed": false
+    }
+  ]
+}

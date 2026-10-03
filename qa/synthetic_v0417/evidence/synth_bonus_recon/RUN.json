@@ -1,0 +1,13 @@
+{
+  "rom_sha256": "bf9db9f19abca263c7d90076037e41c8e27625da34ea9eba101762f777758513",
+  "completion_confirmed": true,
+  "access_method": "SCRIPTED_NATURAL",
+  "source_execution_sha256": "d6f045371eb7790fa9adbb3fd36c972d1cab15dd040eb2ff3ea861ef1f4987ec",
+  "source_lua_sha256": "21c92f45a03105675afeabf4799d035bbaf623b5655dd0a98e4acdfbb60944c8",
+  "files": {
+    "target_3D855C_f06776.png": "c3e528e7d2993089158705cafa7b6751c1d0a83c04602dca39c1bb66948792a7",
+    "completed.json": "295d433e0ca7f2c3270a368e63259a5643afe2b4aa12f64c40212065705ce643",
+    "execution.json": "d6f045371eb7790fa9adbb3fd36c972d1cab15dd040eb2ff3ea861ef1f4987ec",
+    "trace.tsv": "cd497380e2c26da3e316d7d1d115e3690303b8a791d2bc7146a6be018a34534d"
+  }
+}

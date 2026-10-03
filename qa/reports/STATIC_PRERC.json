@@ -1,0 +1,380 @@
+{
+  "archive": {
+    "sha256": "4ecb81093b587fe322ac47c0d69978fb222a9522fb0a3a7e26f2ed55c5f175e2",
+    "members": 3865,
+    "manifest_verified_files": 3864,
+    "crc_ok": true
+  },
+  "clean_build_from_delivered_zip": {
+    "rom_sha256": "bf9db9f19abca263c7d90076037e41c8e27625da34ea9eba101762f777758513",
+    "standard_library_only": true,
+    "spaces_and_unicode_in_path": true,
+    "operating_system_tested": "Linux",
+    "windows_execution": "NOT_TESTED",
+    "intermediate_rom_files_supplied": false,
+    "exit_code": 0
+  },
+  "patches": [
+    {
+      "patch": "patches/Densha_de_Go_2_EN_v0.4.17_CUMULATIVE.bps",
+      "roundtrip_exact": true,
+      "rebuild_patch_identical": true
+    },
+    {
+      "patch": "patches/Densha_de_Go_2_EN_v0.4.17_from_v0.4.16_INCREMENTAL.bps",
+      "roundtrip_exact": true,
+      "rebuild_patch_identical": true
+    },
+    {
+      "patch": "patches/Densha_de_Go_2_EN_v0.4.17_CUMULATIVE.ips",
+      "roundtrip_exact": true,
+      "rebuild_patch_identical": true
+    },
+    {
+      "patch": "patches/Densha_de_Go_2_EN_v0.4.17_from_v0.4.16_INCREMENTAL.ips",
+      "roundtrip_exact": true,
+      "rebuild_patch_identical": true
+    }
+  ],
+  "negative_bps_tests": [
+    {
+      "case": "wrong_source_rom",
+      "rejected": true,
+      "reason": "BPS source CRC mismatch"
+    },
+    {
+      "case": "corrupted_patch",
+      "rejected": true,
+      "reason": "BPS patch CRC mismatch"
+    },
+    {
+      "case": "truncated_patch",
+      "rejected": true,
+      "reason": "BPS patch CRC mismatch"
+    }
+  ],
+  "tables_and_descriptors": {
+    "tables_checked": 60,
+    "unique_descriptors_checked": 3159,
+    "all_table_bytes_unchanged": true,
+    "all_format_tags_unchanged": true,
+    "noncompressed_allocations_changed": [],
+    "tables": [
+      {
+        "bank": "0x2",
+        "entries": 121,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x3",
+        "entries": 40,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x4",
+        "entries": 42,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x5",
+        "entries": 40,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x6",
+        "entries": 50,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x7",
+        "entries": 52,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x8",
+        "entries": 43,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x9",
+        "entries": 83,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0xa",
+        "entries": 60,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0xb",
+        "entries": 54,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0xc",
+        "entries": 51,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0xd",
+        "entries": 76,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0xe",
+        "entries": 91,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0xf",
+        "entries": 100,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x10",
+        "entries": 51,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x11",
+        "entries": 54,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x12",
+        "entries": 44,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x13",
+        "entries": 56,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x14",
+        "entries": 55,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x15",
+        "entries": 51,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x16",
+        "entries": 64,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x17",
+        "entries": 43,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x18",
+        "entries": 82,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x19",
+        "entries": 107,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x1a",
+        "entries": 113,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x1b",
+        "entries": 56,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x1c",
+        "entries": 48,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x1d",
+        "entries": 44,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x1e",
+        "entries": 40,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x1f",
+        "entries": 43,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x20",
+        "entries": 47,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x21",
+        "entries": 51,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x22",
+        "entries": 76,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x23",
+        "entries": 61,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x24",
+        "entries": 52,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x25",
+        "entries": 48,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x26",
+        "entries": 50,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x27",
+        "entries": 50,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x28",
+        "entries": 90,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x29",
+        "entries": 51,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x2a",
+        "entries": 67,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x2b",
+        "entries": 70,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x2c",
+        "entries": 53,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x2d",
+        "entries": 50,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x2e",
+        "entries": 58,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x2f",
+        "entries": 44,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x30",
+        "entries": 54,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x31",
+        "entries": 43,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x32",
+        "entries": 71,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x33",
+        "entries": 49,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x34",
+        "entries": 58,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x35",
+        "entries": 90,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x36",
+        "entries": 94,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x37",
+        "entries": 55,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x38",
+        "entries": 61,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x39",
+        "entries": 57,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x3a",
+        "entries": 50,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x3b",
+        "entries": 74,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x3c",
+        "entries": 59,
+        "pointer_table_unchanged": true
+      },
+      {
+        "bank": "0x3d",
+        "entries": 144,
+        "pointer_table_unchanged": true
+      }
+    ]
+  },
+  "active_document_paths": {
+    "README_ES.md": true,
+    "INFORME_V0417.md": true,
+    "PROJECT_STATE.json": true,
+    "NEXT_STAGE.md": true,
+    "BUILD_WINDOWS.bat": true,
+    "tools/build.py": true,
+    "reports/BUILD_VALIDATION.json": true,
+    "reports/QA_SUMMARY.json": true,
+    "reports/PENDING_REVIEW.json": true,
+    "evidence/environment_audit/ENVIRONMENT_CATALOG.html": true
+  },
+  "rom_sha256": "bf9db9f19abca263c7d90076037e41c8e27625da34ea9eba101762f777758513",
+  "rom_unchanged_during_pre_rc": true,
+  "seconds": 2.432
+}

@@ -1,0 +1,13 @@
+{
+  "rom_sha256": "bf9db9f19abca263c7d90076037e41c8e27625da34ea9eba101762f777758513",
+  "completion_confirmed": true,
+  "access_method": "SYNTHETIC_OBJECT_INJECTION",
+  "source_execution_sha256": "981c948198469c88962ac9cc8400778db53e35446af08cf9b055198af3209e8f",
+  "source_lua_sha256": "d5440a7fad3d4eb546d83699d51cf791db0103c9982c710a413dc7c2ea42d1c7",
+  "files": {
+    "f03050.png": "c725e933d0832afc3236a6617d8203cc91271493718a5ec8b4a3e6256c1c1932",
+    "completed.json": "bd9d61041e7f973717d7194537732cdc0f1ed97b49c13e810c3f9f98007cbdac",
+    "execution.json": "981c948198469c88962ac9cc8400778db53e35446af08cf9b055198af3209e8f",
+    "trace.tsv": "71664a0059d95e4a90918c2bda9818f18586deca72f9f8148643df4f5dd69f95"
+  }
+}

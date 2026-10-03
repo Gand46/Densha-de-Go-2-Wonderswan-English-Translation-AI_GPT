@@ -1,0 +1,16 @@
+{
+  "rom_sha256": "bf9db9f19abca263c7d90076037e41c8e27625da34ea9eba101762f777758513",
+  "run_sha256": "7650f85d9ef30979e6c3b6b8cd398f869cdd07ccd37f5078b4b5a8f88698a0c5",
+  "natural_pass": false,
+  "scope": "consumer",
+  "reviewer": "Codex: Mesen 2.1.1 and direct capture inspection",
+  "statement": "RUN ENDED: consumidor directo; real engine resource load observed after WRAM_SUBSTATE_INJECTION. This approves consumer behavior only.",
+  "evidence": {
+    "ended_load.json": "458a47de5553ba880348d5c8bbe60a122f7d5845d452ded56ba0e2e012d2c5da",
+    "f1000.png": "9fc8a9da607aab93c9df34c020552bdd7c450d5eaacad1e80f07654c42081c3d"
+  },
+  "checks": {
+    "consumer_observed": "PASS",
+    "expected_effect_observed": "PASS"
+  }
+}

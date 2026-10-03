@@ -1,0 +1,16 @@
+{
+  "rom_sha256": "bf9db9f19abca263c7d90076037e41c8e27625da34ea9eba101762f777758513",
+  "run_sha256": "79a357739c22bc33c6384170f5695a00bebc20dafdade617e44015381838cbc1",
+  "natural_pass": false,
+  "scope": "consumer",
+  "reviewer": "Codex: Mesen 2.1.1 and direct capture inspection",
+  "statement": "BUFFER STOP COLLISION; real engine resource load observed after WRAM_POINTER_INJECTION. This approves consumer behavior only.",
+  "evidence": {
+    "trace.tsv": "1391b37cd7e2ad2d815b8a95dc94d77ef2226b9dae51046a47d1b726377f1b5f",
+    "notice_f06600.png": "3988e4547d24558a905ba4770d50c2da8f8fa061c1edbea344b7fb2d72371624"
+  },
+  "checks": {
+    "consumer_observed": "PASS",
+    "expected_effect_observed": "PASS"
+  }
+}

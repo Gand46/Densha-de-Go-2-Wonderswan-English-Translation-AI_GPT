@@ -1,0 +1,16 @@
+{
+  "rom_sha256": "bf9db9f19abca263c7d90076037e41c8e27625da34ea9eba101762f777758513",
+  "run_sha256": "da9f4c582ba0de53b2f0b72644245d121293adb3f18bb0d2e56ccceb591dc970",
+  "natural_pass": false,
+  "scope": "consumer",
+  "reviewer": "Codex: Mesen 2.1.1 and direct capture inspection",
+  "statement": "HARD BRAKING; real engine resource load observed after WRAM_POINTER_INJECTION. This approves consumer behavior only.",
+  "evidence": {
+    "trace.tsv": "dd0b7f53ff1a909a64053aa7704b9b59d08be3e699885162d3b5b9195e89413b",
+    "notice_f06600.png": "1c97cadf3f1a81731dfb7e50bc27e9ce9950a3a167b04ffff034c8d2e7d2fab8"
+  },
+  "checks": {
+    "consumer_observed": "PASS",
+    "expected_effect_observed": "PASS"
+  }
+}

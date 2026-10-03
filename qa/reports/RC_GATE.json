@@ -1,0 +1,15 @@
+{
+  "rom_version": "0.4.17",
+  "rom_sha256": "bf9db9f19abca263c7d90076037e41c8e27625da34ea9eba101762f777758513",
+  "rom_modified": false,
+  "classification": "PRE_RC_VALIDATION_CHECKPOINT",
+  "rc_declared": false,
+  "technical_sample": "PASS",
+  "new_confirmed_gameplay_blockers": 0,
+  "whole_game_blocker_count": "UNKNOWN_OUTSIDE_TESTED_SCOPE",
+  "global_language_gate": "NEEDS_REVIEW",
+  "global_visual_gate": "NEEDS_REVIEW",
+  "confirmed_japanese_pending_global": "NOT_ESTABLISHED",
+  "scope_rule": "WS_TRANSLATION_UNIVERSAL_RULES_v1.1 Part XXI",
+  "next_priority": "Visual family census and consolidated linguistic ledger; targeted short consumer tests for rare events."
+}

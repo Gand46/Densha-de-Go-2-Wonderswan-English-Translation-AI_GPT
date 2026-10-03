@@ -1,0 +1,27 @@
+{
+  "exit_code": 0,
+  "completed": true,
+  "seconds": 1.593,
+  "rom_sha256": "bf9db9f19abca263c7d90076037e41c8e27625da34ea9eba101762f777758513",
+  "lua_sha256": "eca990cbf090451d0ae9c9f1ae4afa8eaec7b6d4ec7b13d5770af9cadc0c4baa",
+  "access_method": "WRAM_SUBSTATE_INJECTION",
+  "parameters": {
+    "name": "synth_ended_recheck",
+    "rom": "/workspace/scratch/eeb33cfcd7d9/work/Densha_de_Go_2_EN_v0.4.17/roms/Densha_de_Go_2_EN_v0.4.17.ws",
+    "mode": "idle",
+    "index": 0,
+    "frames": 1100,
+    "freeze": false,
+    "lua": "tools/qa/ended_consumer_assisted.lua"
+  },
+  "command": [
+    "/workspace/scratch/eeb33cfcd7d9/work/Densha_de_Go_2_EN_v0.4.17/vendor/mesen_runtime/Mesen",
+    "--testRunner",
+    "--timeout=85",
+    "--enableStdout",
+    "--doNotSaveSettings",
+    "--debug.scriptWindow.allowIoOsAccess=true",
+    "/workspace/scratch/eeb33cfcd7d9/work/Densha_de_Go_2_EN_v0.4.17/tools/qa/ended_consumer_assisted.lua",
+    "/workspace/scratch/eeb33cfcd7d9/work/Densha_de_Go_2_EN_v0.4.17/roms/Densha_de_Go_2_EN_v0.4.17.ws"
+  ]
+}

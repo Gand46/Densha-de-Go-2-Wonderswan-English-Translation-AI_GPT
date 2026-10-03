@@ -1,0 +1,23 @@
+{
+  "seconds_sum": 35.334,
+  "rom_sha256": "bf9db9f19abca263c7d90076037e41c8e27625da34ea9eba101762f777758513",
+  "memory_pokes": false,
+  "timer_freeze": false,
+  "options_captures_match_v0416": 15,
+  "pause_identical_frames": [
+    4100,
+    4400
+  ],
+  "resume_gameplay_frame": 4700,
+  "end_run_returns_boot_frame": 6100,
+  "continue_prompt_frame": 11500,
+  "continue_button_frame": 11600,
+  "continued_gameplay_frames": [
+    12000,
+    12500,
+    13000,
+    14000,
+    14500
+  ],
+  "scope": "One route exercised for pause/exit and one for continue; not all gameplay combinations."
+}
